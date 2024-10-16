@@ -1,0 +1,20 @@
+create a git config and set it to laptop
+
+:- STEPS
+
+1 :- download a git for windows
+2 :- open cmd
+3 :- type git
+  shows cmd's related to git
+4 :- set the username and email to local system. follow these cmds...
+  git config --global user.name "khaliqMohamed"
+  git config --global  user.mail "khaliqmohamedm@gmail.com"
+5 :- opwn a vs code as well as create a new folder whatever name you want to give
+6 :- open that folder in vs code.
+7 :- now we want to copy git repository(folder) to that local repo(folder)
+8 :- open the terminal in vs code for copy git repository(folder) to that local repo(folder) and then type GIT CLONE [go to github->repo->click code -> copy that link]
+9 :- paste after GIT CLONE (ex : GIT CLONE https://gitconf....)
+10 :- now our git repo directly comes to our local folder
+11 :- .git folder should be like a bridge for our repo and that khaliqMohamed folder
+
+
