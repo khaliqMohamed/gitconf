@@ -16,5 +16,10 @@ create a git config and set it to laptop
 9 :- paste after GIT CLONE (ex : GIT CLONE https://gitconf....)
 10 :- now our git repo directly comes to our local folder
 11 :- .git folder should be like a bridge for our repo and that khaliqMohamed folder
+12 :- go to that 'gitconf' folder using cd 
+13 :- now our goal is to be create a folder in our local folder(repo) in system then it will display in our git repo ... ?
+14 :- go to vs code -> create new file -> that file 'U' display there (mean unmodified)
+
+
 
 
